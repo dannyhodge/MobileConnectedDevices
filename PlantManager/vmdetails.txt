@@ -1,0 +1,9 @@
+http://35.204.36.81
+P76ahQknRkt3
+
+
+/home/dannyhodge95
+
+Api link: http://35.204.36.81/index3.php/sensors/getsensordata?sensorid=1
+
+sudo cp /home/dannyhodge95/index3.php /opt/bitnami/apache2/htdocs

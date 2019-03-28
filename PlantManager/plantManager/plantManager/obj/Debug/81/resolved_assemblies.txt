@@ -1,46 +1,46 @@
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\plantManager.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\FormsViewGroup.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Java.Interop.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Mono.Android.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\mscorlib.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Core.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Json.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Xml.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.CustomTabs.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.v4.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.CardView.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.Palette.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Forms.Core.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Forms.Platform.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Net.Http.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Mono.Security.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\netstandard.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Data.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Numerics.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Transactions.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.IO.Compression.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Web.Services.dll
-E:\Uni\Mobile Devices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Xml.Linq.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\plantManager.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\FormsViewGroup.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Java.Interop.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Mono.Android.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\mscorlib.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Core.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Json.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Net.Http.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Xml.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.CustomTabs.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.v4.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.CardView.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.Palette.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Forms.Core.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Forms.Platform.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\Mono.Security.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\netstandard.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Data.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Numerics.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Transactions.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.IO.Compression.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Web.Services.dll
+E:\MobileConnectedDevices\PlantManager\plantManager\plantManager\obj\Debug\81\android\assets\System.Xml.Linq.dll

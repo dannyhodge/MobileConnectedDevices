@@ -5023,8 +5023,8 @@ namespace plantManager
 			// aapt resource value: 0x7F0C0011
 			public const int action_mode_close_button = 2131492881;
 			
-			// aapt resource value: 0x7F060027
-			public const int action_settings = 2131099687;
+			// aapt resource value: 0x7F060029
+			public const int action_settings = 2131099689;
 			
 			// aapt resource value: 0x7F0C0004
 			public const int action_text = 2131492868;
@@ -5062,11 +5062,11 @@ namespace plantManager
 			// aapt resource value: 0x7F0C001A
 			public const int bottom = 2131492890;
 			
-			// aapt resource value: 0x7F060197
-			public const int bottomtab.navarea = 2131100055;
+			// aapt resource value: 0x7F060199
+			public const int bottomtab.navarea = 2131100057;
 			
-			// aapt resource value: 0x7F060198
-			public const int bottomtab.tabbar = 2131100056;
+			// aapt resource value: 0x7F060200
+			public const int bottomtab.tabbar = 2131100160;
 			
 			// aapt resource value: 0x7F0C001B
 			public const int buttonPanel = 2131492891;
@@ -5158,11 +5158,11 @@ namespace plantManager
 			// aapt resource value: 0x7F0C0032
 			public const int @fixed = 2131492914;
 			
-			// aapt resource value: 0x7F060199
-			public const int flyoutcontent.appbar = 2131100057;
+			// aapt resource value: 0x7F060201
+			public const int flyoutcontent.appbar = 2131100161;
 			
-			// aapt resource value: 0x7F060200
-			public const int flyoutcontent.recycler = 2131100160;
+			// aapt resource value: 0x7F060202
+			public const int flyoutcontent.recycler = 2131100162;
 			
 			// aapt resource value: 0x7F0C0009
 			public const int forever = 2131492873;
@@ -5181,6 +5181,9 @@ namespace plantManager
 			
 			// aapt resource value: 0x7F0C000B
 			public const int icon_group = 2131492875;
+			
+			// aapt resource value: 0x7F060028
+			public const int identifyButton = 2131099688;
 			
 			// aapt resource value: 0x7F0C0038
 			public const int image = 2131492920;
@@ -5218,17 +5221,17 @@ namespace plantManager
 			// aapt resource value: 0x7F0C0041
 			public const int list_item = 2131492929;
 			
-			// aapt resource value: 0x7F060201
-			public const int main.appbar = 2131100161;
+			// aapt resource value: 0x7F060203
+			public const int main.appbar = 2131100163;
+			
+			// aapt resource value: 0x7F060206
+			public const int main.scrollview = 2131100166;
+			
+			// aapt resource value: 0x7F060205
+			public const int main.tablayout = 2131100165;
 			
 			// aapt resource value: 0x7F060204
-			public const int main.scrollview = 2131100164;
-			
-			// aapt resource value: 0x7F060203
-			public const int main.tablayout = 2131100163;
-			
-			// aapt resource value: 0x7F060202
-			public const int main.toolbar = 2131100162;
+			public const int main.toolbar = 2131100164;
 			
 			// aapt resource value: 0x7F0C0042
 			public const int masked = 2131492930;
@@ -5449,14 +5452,14 @@ namespace plantManager
 			// aapt resource value: 0x7F0C0069
 			public const int select_dialog_listview = 2131492969;
 			
-			// aapt resource value: 0x7F060205
-			public const int shellcontent.appbar = 2131100165;
-			
 			// aapt resource value: 0x7F060207
-			public const int shellcontent.scrollview = 2131100167;
+			public const int shellcontent.appbar = 2131100167;
 			
-			// aapt resource value: 0x7F060206
-			public const int shellcontent.toolbar = 2131100166;
+			// aapt resource value: 0x7F060209
+			public const int shellcontent.scrollview = 2131100169;
+			
+			// aapt resource value: 0x7F060208
+			public const int shellcontent.toolbar = 2131100168;
 			
 			// aapt resource value: 0x7F0C006A
 			public const int shortcut = 2131492970;
@@ -5502,6 +5505,9 @@ namespace plantManager
 			
 			// aapt resource value: 0x7F0C0016
 			public const int tag_transition_group = 2131492886;
+			
+			// aapt resource value: 0x7F060027
+			public const int takePhoto = 2131099687;
 			
 			// aapt resource value: 0x7F060005
 			public const int tempdataText = 2131099653;
@@ -5752,8 +5758,8 @@ namespace plantManager
 			// aapt resource value: 0x7F070002
 			public const int activity_main = 2131165186;
 			
-			// aapt resource value: 0x7F070071
-			public const int BottomTabLayout = 2131165297;
+			// aapt resource value: 0x7F070072
+			public const int BottomTabLayout = 2131165298;
 			
 			// aapt resource value: 0x7F070003
 			public const int content_main = 2131165187;
@@ -5800,8 +5806,11 @@ namespace plantManager
 			// aapt resource value: 0x7F0F0028
 			public const int design_text_input_password_icon = 2131689512;
 			
-			// aapt resource value: 0x7F070072
-			public const int FlyoutContent = 2131165298;
+			// aapt resource value: 0x7F070073
+			public const int FlyoutContent = 2131165299;
+			
+			// aapt resource value: 0x7F070005
+			public const int identifyform = 2131165189;
 			
 			// aapt resource value: 0x7F070004
 			public const int identityui = 2131165188;
@@ -5869,8 +5878,8 @@ namespace plantManager
 			// aapt resource value: 0x7F0F0006
 			public const int notification_template_part_time = 2131689478;
 			
-			// aapt resource value: 0x7F070073
-			public const int RootLayout = 2131165299;
+			// aapt resource value: 0x7F070074
+			public const int RootLayout = 2131165300;
 			
 			// aapt resource value: 0x7F0F0038
 			public const int select_dialog_item_material = 2131689528;
@@ -5881,8 +5890,8 @@ namespace plantManager
 			// aapt resource value: 0x7F0F003A
 			public const int select_dialog_singlechoice_material = 2131689530;
 			
-			// aapt resource value: 0x7F070074
-			public const int ShellContent = 2131165300;
+			// aapt resource value: 0x7F070075
+			public const int ShellContent = 2131165301;
 			
 			// aapt resource value: 0x7F0F003B
 			public const int support_simple_spinner_dropdown_item = 2131689531;

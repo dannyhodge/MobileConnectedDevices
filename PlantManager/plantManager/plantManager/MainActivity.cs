@@ -20,6 +20,7 @@ using Android.Support.V4.App;
 using Android.Content.PM;
 using Android.Graphics;
 using Xamarin.Forms;
+using Android.Provider;
 
 namespace plantManager
 {
@@ -44,6 +45,16 @@ namespace plantManager
             string url1 = "http://35.204.36.81/index3.php/sensors/getsensordata?sensorid=1";
             string url2 = "http://35.204.36.81/index3.php/sensors/getsensordata?sensorid=2";
             string url3 = "http://35.204.36.81/index3.php/images/getimagedata";
+
+
+
+
+            Android.Widget.Button loadAPI = FindViewById<Android.Widget.Button>(Resource.Id.launchAPI);
+            loadAPI.Click += delegate {
+                var intent = new Intent(this, typeof(IdentifyPlant));
+                StartActivity(intent);
+            };
+
 
 
             // Fetch the weather information asynchronously using 'await'

@@ -158,18 +158,18 @@
 		android:layout_below="@id/minHumidText"
 		android:id="@+id/textView1" />
 	<Button
-		android:text="Identify Plant"
+		android:text="Add to timelapse"
 		android:layout_width="192.0dp"
 		android:layout_height="wrap_content"
 		android:layout_below="@id/imageView1"
-		android:id="@+id/launchAPI" />
+		android:id="@+id/addToTL" />
 	<Button
 		android:text="New Plant"
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:layout_below="@id/imageView1"
 		android:id="@+id/deletePlant"
-		android:layout_toRightOf="@+id/launchAPI"/>
+		android:layout_toRightOf="@+id/addToTL"/>
 
 
            

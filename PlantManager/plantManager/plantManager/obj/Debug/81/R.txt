@@ -1000,6 +1000,7 @@ int id action_text 0x7f0900d3
 int id actions 0x7f0900e1
 int id activity_chooser_view_content 0x7f09005d
 int id add 0x7f090027
+int id addToTL 0x7f0900a3
 int id alertTitle 0x7f090070
 int id all 0x7f090052
 int id always 0x7f090038
@@ -1072,7 +1073,6 @@ int id info 0x7f0900de
 int id italic 0x7f090059
 int id item_touch_helper_previous_elevation 0x7f090000
 int id largeLabel 0x7f0900a6
-int id launchAPI 0x7f0900a3
 int id left 0x7f090049
 int id line1 0x7f090017
 int id line3 0x7f090018

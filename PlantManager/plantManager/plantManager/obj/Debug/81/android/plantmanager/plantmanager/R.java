@@ -3355,6 +3355,7 @@ containing a value of this type.
         public static final int actions=0x7f0900e1;
         public static final int activity_chooser_view_content=0x7f09005d;
         public static final int add=0x7f090027;
+        public static final int addToTL=0x7f0900a3;
         public static final int alertTitle=0x7f090070;
         public static final int all=0x7f090052;
         public static final int always=0x7f090038;
@@ -3427,7 +3428,6 @@ containing a value of this type.
         public static final int italic=0x7f090059;
         public static final int item_touch_helper_previous_elevation=0x7f090000;
         public static final int largeLabel=0x7f0900a6;
-        public static final int launchAPI=0x7f0900a3;
         public static final int left=0x7f090049;
         public static final int line1=0x7f090017;
         public static final int line3=0x7f090018;

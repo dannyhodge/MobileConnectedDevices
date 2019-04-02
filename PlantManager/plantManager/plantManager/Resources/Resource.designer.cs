@@ -5120,6 +5120,9 @@ namespace plantManager
 			// aapt resource value: 0x7f090027
 			public const int add = 2131296295;
 			
+			// aapt resource value: 0x7f0900a3
+			public const int addToTL = 2131296419;
+			
 			// aapt resource value: 0x7f090070
 			public const int alertTitle = 2131296368;
 			
@@ -5335,9 +5338,6 @@ namespace plantManager
 			
 			// aapt resource value: 0x7f0900a6
 			public const int largeLabel = 2131296422;
-			
-			// aapt resource value: 0x7f0900a3
-			public const int launchAPI = 2131296419;
 			
 			// aapt resource value: 0x7f090049
 			public const int left = 2131296329;

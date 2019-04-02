@@ -49,10 +49,10 @@ namespace plantManager
 
 
 
-            Android.Widget.Button loadAPI = FindViewById<Android.Widget.Button>(Resource.Id.launchAPI);
-            loadAPI.Click += delegate {
-                var intent = new Intent(this, typeof(IdentifyPlant));
-                StartActivity(intent);
+            Android.Widget.Button AddToTL = FindViewById<Android.Widget.Button>(Resource.Id.addToTL);
+            AddToTL.Click += delegate {
+                    Intent intent = new Intent(MediaStore.ActionImageCapture);
+                    StartActivityForResult(intent, 0);    
             };
 
 
@@ -84,10 +84,17 @@ namespace plantManager
         {
 
             ImageView image = FindViewById<ImageView>(Resource.Id.imageView1);
+
+
+
+
+            //SORT IMAGES BASED ON ORDER TAKEN ON PHONE COMPARED TO TIMELAPSE IMAGES
+
+
+
+
             image.SetImageBitmap(images[currentIndex]);
 
-            //   Console.WriteLine("current index: " + currentIndex);
-            //    Console.WriteLine("images count: " + images.Count);
             if (currentIndex < (images.Count - 1))
             {
                 currentIndex++;
@@ -132,8 +139,7 @@ namespace plantManager
 
 
 
-        // Parse the weather data, then write temperature, humidity, 
-        // conditions, and location to the screen.
+   
         private void ParseAndDisplay(JsonValue jsonTemp, JsonValue jsonHumid, JsonValue jsonImages)
         {
 
@@ -148,10 +154,6 @@ namespace plantManager
 
             TextView maxHumidBox = FindViewById<TextView>(Resource.Id.maxHumid);
             TextView minHumidBox = FindViewById<TextView>(Resource.Id.minHumid);
-
-
-
-            // Extract the array of name/value results for the field name "weatherObservation". 
 
 
 
@@ -286,10 +288,39 @@ namespace plantManager
             string minHumidString = minHumidInt.ToString();
             minHumidBox.Text = minHumidString;
 
+        }
 
 
+        protected override void OnActivityResult(int requestCode, Result resultCode, Intent data)
+        {
+            base.OnActivityResult(requestCode, resultCode, data);
+
+            // It's a good idea that you check this before accessing the data
+            if (requestCode == 0 && resultCode == Result.Ok)
+            {
+                //get the image bitmap from the intent extras
+                var image = (Android.Graphics.Bitmap)data.Extras.Get("data");
+
+                // you might also like to check whether image is null or not
+                // if (image == null) do something
+
+                //convert bitmap into byte array
+                byte[] bitmapData;
+
+                using (var stream = new MemoryStream())
+                {
+                    image.Compress(Android.Graphics.Bitmap.CompressFormat.Png, 0, stream);
+                    bitmapData = stream.ToArray();
+                }
 
 
+                images.Add(image);
+
+            }
+            else
+            {
+                Console.WriteLine("Did not return image correctly");
+            }
         }
 
 
